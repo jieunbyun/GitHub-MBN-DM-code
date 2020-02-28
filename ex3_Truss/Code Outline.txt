@@ -1,0 +1,6 @@
+1. Quant_Truss.m: Quantify CPMs P and C required during optimization
+2. Optim_Truss.m: Perform optimization
+3. GA_Truss.m: Perform genetic algorithm
+
+--> Run demoTruss.m
+
